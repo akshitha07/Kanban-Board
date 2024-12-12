@@ -1,4 +1,9 @@
 # Kanban-Board
+
+
+https://github.com/akshitha07/Kanban-Board/blob/3d179232f69db3b002de39dadd9cf5514a3cd9bd/kanban%20board%20snap.JPG
+
+
 How to run this project on your computer:
 After cloning this repository, in the project folder we need to install the dependencies. You can either use yarn or npm for this. Use the command:
 
